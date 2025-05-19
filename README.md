@@ -37,7 +37,7 @@
 ### Running from an IDE
 1. **Clone** the repository:  
    ```bash
-   git clone https://github.com/<your‑username>/pepse.git
+   git clone https://github.com/ronnierozanski1/pepse.git
    ```
 2. **Import** the project as a *Gradle* / *Maven* / *plain* Java project (no external plugins required).  
 3. Mark `src/` as *Sources Root* and ensure `assets/` is copied to the **working directory**.  
